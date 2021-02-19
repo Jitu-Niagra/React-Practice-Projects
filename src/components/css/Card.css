@@ -1,0 +1,40 @@
+.card{
+   margin: 2rem auto;
+    text-align: center;
+    align-content: center;
+    border: 1px solid green;
+    width: 50%;
+    height: fit-content;
+    background-color: #001437;
+    color: #e62e38;
+    border-radius :4rem;
+    padding: 2rem 2rem;
+    box-shadow: 2px 2px rgba(230, 10, 10, 0.5);
+
+
+}
+
+.profPic{
+    width:50%;
+    height:200px;
+    margin: auto auto;
+    align-self: center;
+    background: url('../../images/prof1.jpg') no-repeat  center center;
+    border-radius:10%;
+    
+    
+}
+.name{
+    color: white;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title,.desText{
+    font-weight: 200;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    color: #ff3600;
+
+}
+
